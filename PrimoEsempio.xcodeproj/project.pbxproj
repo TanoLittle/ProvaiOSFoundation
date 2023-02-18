@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2848EC5929A12F7C00EB2DE7 /* ProvaAggiuntaFileSwitfIU.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2848EC5829A12F7C00EB2DE7 /* ProvaAggiuntaFileSwitfIU.swift */; };
 		2859532D299A40C800123BF4 /* ImageSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2859532C299A40C800123BF4 /* ImageSwiftUIView.swift */; };
 		285F16CE299A36AB00A8E45F /* PrimoEsempioApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285F16CD299A36AB00A8E45F /* PrimoEsempioApp.swift */; };
 		285F16D0299A36AB00A8E45F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285F16CF299A36AB00A8E45F /* ContentView.swift */; };
@@ -45,6 +46,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2848EC5829A12F7C00EB2DE7 /* ProvaAggiuntaFileSwitfIU.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProvaAggiuntaFileSwitfIU.swift; sourceTree = "<group>"; };
 		2859532C299A40C800123BF4 /* ImageSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSwiftUIView.swift; sourceTree = "<group>"; };
 		285F16CA299A36AB00A8E45F /* PrimoEsempio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PrimoEsempio.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		285F16CD299A36AB00A8E45F /* PrimoEsempioApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimoEsempioApp.swift; sourceTree = "<group>"; };
@@ -121,6 +123,7 @@
 				289A999D299B9F6E00C9D901 /* VehicleView.swift */,
 				28EF7558299CCD64006CE482 /* TabSwiftUIView.swift */,
 				289A999B299B973700C9D901 /* ComplexListUIView.swift */,
+				2848EC5829A12F7C00EB2DE7 /* ProvaAggiuntaFileSwitfIU.swift */,
 				2889B7F0299E219F0076B4E2 /* SearchSwiftUIView.swift */,
 				2889B7F2299E2AC30076B4E2 /* ButtonSwiftUIView.swift */,
 				2889B7F4299E2FAB0076B4E2 /* SheetSwiftUIView.swift */,
@@ -296,6 +299,7 @@
 				2859532D299A40C800123BF4 /* ImageSwiftUIView.swift in Sources */,
 				28EF755D299CD74B006CE482 /* Place.swift in Sources */,
 				2889B7F1299E219F0076B4E2 /* SearchSwiftUIView.swift in Sources */,
+				2848EC5929A12F7C00EB2DE7 /* ProvaAggiuntaFileSwitfIU.swift in Sources */,
 				289A999E299B9F6E00C9D901 /* VehicleView.swift in Sources */,
 				28EF7559299CCD64006CE482 /* TabSwiftUIView.swift in Sources */,
 				2889B7F7299E3B2A0076B4E2 /* CarouselSwiftUIView.swift in Sources */,
