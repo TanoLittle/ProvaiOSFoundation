@@ -14,7 +14,7 @@ struct Vehicle: Identifiable {
 }
 
 struct ComplexListUIView: View {
-    @State var vehicles = [Vehicle(name: "car", image: "ca"),
+    @State var vehicles = [Vehicle(name: "car", image: "car"),
                            Vehicle(name: "bus", image: "bus"),
                            Vehicle(name: "tram", image: "tram"),
                            Vehicle(name: "bicycle", image: "bicycle")]
